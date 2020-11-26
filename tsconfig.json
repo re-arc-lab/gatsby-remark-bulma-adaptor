@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "newLine": "lf",
+    "outDir": "./dist/",
+    "rootDir": "./src",
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext"
+  }
+}
